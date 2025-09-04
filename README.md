@@ -2,9 +2,9 @@
 
 This project showcases a comprehensive exploration of machine learning techniques to automate quality inspection for metal casting products. By testing various architectures and optimization strategies, a final Convolutional Neural Network (CNN) was developed that achieved outstanding accuracy in classifying industrial images as 'defective' or 'ok'.
 
-**Created by: Amardip Banerjee**
-_Undergraduate, Manufacturing Engineering & Industrial Engineering (B.Tech + M.Tech Dual Degree)_
-_Indian Institute of Technology, Kharagpur (2021-2025)_
+**Author:** Amardip Banerjee  
+**Institution:** Indian Institute of Technology, Kharagpur  
+**Program:** Dual Degree (B.Tech + M.Tech), Manufacturing Science and Industrial Engineering (2021-2026)
 
 ---
 
